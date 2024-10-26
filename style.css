@@ -1,4 +1,15 @@
-html {
-  height: 100%;
-  width: 100%;
+div{
+  color: white;
+  text-align: center;
+    }
+
+.myfirstclass{
+  background-color: #2f8789;
+  font-size: 30px;
+}
+.div2 {
+  background-color: #2f77b6
+}
+.div3 {
+  background-color: #243c84;
 }
